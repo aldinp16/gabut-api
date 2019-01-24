@@ -1,6 +1,7 @@
 {
   "name": "gabut-api",
-  "version": "0.1",
+  "version": "0.0.1",
+  "license": "MIT",
   "description": "Gabut private api written in JS",
   "main": "lib/index.js",
   "author": "Aldi Nugraha <aldinugrahap16@gmail.com>",
