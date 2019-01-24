@@ -5,7 +5,9 @@
   "description": "Gabut private api written in JS",
   "main": "lib/index.js",
   "author": "Aldi Nugraha <aldinugrahap16@gmail.com>",
-  "files": "lib",
+  "files": [
+    "lib"
+  ],
   "repository": "https://github.com/aldinp16/gabut-api",
   "dependencies": {
     "nedb": "^1.8.0",
