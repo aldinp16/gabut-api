@@ -24,11 +24,10 @@ Get user profile:
 const user = await gabut.getProfile(12) // default param is own accountId
 ```
 For More feature check the code of `lib/index.js`
-# Link
+## Link
 * [random-useragent](https://github.com/skratchdot/random-useragent) 
 * [request](https://github.com/request/request)
-* [request-debug](https://github.com/request/request-debug)
 * [request-promise](https://github.com/request/request-promise)
 
-# Legal
+## Legal
 This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Gabut App or any of its affiliates or subsidiaries. Use at your own risk.
